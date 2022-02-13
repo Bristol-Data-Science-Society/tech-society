@@ -32,7 +32,7 @@ If this sounds like your thing, you can:
 
     We very warmly welcome contributors! Firstly, you can suggest readings for future sessions - send an email to `bristol.dss2019@gmail.com` with your recommendation. Secondly, we need moderators to make sure discussion goes smoothly in each session - again, send us an email to talk about this.
 
-[event-blog-post]: 
+[event-blog-post]: /discussion/2022/02/13/neo-luddism.html
 [mailing-list]: https://mailchi.mp/17e4fd7938e9/bristol-tech-society-discussion-group-sign-up
 [white-bear-fb]: https://www.facebook.com/thewhitebearbristol/
 [bdss-fb]: https://www.facebook.com/BristolDSS
