@@ -7,7 +7,7 @@ sidebar_link: true
 Welcome! Tech & Society Discussion Group is a fortnightly meetup for students and graduates at the University of Bristol where we talk about how technology and society are intertwined. We're very interdisciplinary and welcome everyone - whether you're a computer scientist, sociologist, engineer, biologist, or philosopher.
 
 
-> **Our next meet-up is on Tuesday 15th Feb 6-7pm** at [The White Bear][white-bear-fb]. The topic is "Do We Need Technology?", and the reading (you can download it [here]() is an edited extract of "Luddism for These Ludicrous Times" from the blogpost [LibrarianShipwreck](https://librarianshipwreck.wordpress.com/2013/08/12/luddism-for-these-ludicrous-times/). For more info, including full event description, click [here][event-blog-post].
+> **Our next meet-up is on Tuesday 15th Feb 6-7pm** at [The White Bear][white-bear-fb]. The topic is "Do We Need Technology?", and the reading (you can download it [here][reading-link]) is an edited extract of "Luddism for These Ludicrous Times" from the blogpost [LibrarianShipwreck](https://librarianshipwreck.wordpress.com/2013/08/12/luddism-for-these-ludicrous-times/). For more info, including full event description, click [here][event-blog-post].
 >
 >  (_We typically meet once fortnightly at [The White Bear][white-bear-fb] on a Tuesday, 6-7pm._)
 
