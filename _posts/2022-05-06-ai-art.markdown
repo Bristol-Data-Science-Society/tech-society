@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "10th May - Can AI Create Art?"
+date:   2022-05-06 11:00:00 +0000
+categories: discussion
+---
+**Event date/time: 6-7pm, 10th May 2022**
+
+**Event location: [The White Bear][white-bear-fb]**
+
+**Reading: "AI is Blurring the Definition of Artist"** by Ahmed Elgammal. [Web version][web-reading-link] [PDF version][pdf-reading-link]
+
+Modern technologies are reshaping human activities, including those originally thought to be uniquely 'human' and 'creative'. One of many such areas being transformed by AI is art, where new technologies such as Open AI's [DALL-E 2](https://openai.com/dall-e-2/) are able to create and edit images based on a short text prompt. Does this new wave of creative AI threaten the purported uniqueness of humans? Or is it just another tool to help human artists create even better art? Can AI create art, and what do we mean by 'art' anyway?
+
+These are the questions we'll be discussing as a group at this event. The format of the event will be a free-flowing discussion centred around the short reading "AI is Blurring the Definition of Artist"; everyone is welcome to come, regardless of background!
+
+
+[white-bear-fb]: https://www.facebook.com/thewhitebearbristol/
+[web-reading-link]: https://link.gale.com/apps/doc/A579092374/AONE?u=univbri&sid=googleScholar&xid=f079926a
+[pdf-reading-link]: https://bit.ly/tech-society-ai-art
